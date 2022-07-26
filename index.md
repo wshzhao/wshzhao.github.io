@@ -1,6 +1,7 @@
 ## Welcome to Dr. W.-S. Zhao's Homepage
 
-Wen-Sheng Zhao received the B.E. degree from Harbin Institute of Technology, Harbin, China, in 2008, and the Ph.D. degree from Zhejiang University, Hangzhou, China, in 2013.
+Wen-Sheng Zhao received the B.E. degree from Harbin Institute of Technology, Harbin, China, in 2008, and the Ph.D. degree from Zhejiang University, Hangzhou, China, in 2013. He was a visiting Ph.D. student at National University of Singapore, Singapore, from 2010 to 2013, and a visiting scholar at Georgia Institute of Technology, Atlanta, USA, from 2017 to 2018. He is currently a full professor with Hangzhou Dianzi University, Hangzhou. He has published 3 books, 3 book chapters, and more than 100 journal articles (including more than 50 IEEE papers). 
+Dr. Zhao is a Sensior Member of IEEE and Chinese Institute of Electronics, and serves as an Associate Editor of IEEE Access and Microelectronics Journal, and a guest editor of Micromachines and Electronics. 
 
 You can use the [editor on GitHub](https://github.com/wshzhao/wshzhao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
