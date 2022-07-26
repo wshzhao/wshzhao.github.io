@@ -4,13 +4,18 @@ Wen-Sheng Zhao received the B.E. degree from Harbin Institute of Technology, Har
 
 Dr. Zhao is a Sensior Member of IEEE and Chinese Institute of Electronics, and serves as an Associate Editor of IEEE Access and Microelectronics Journal, and a guest editor of Micromachines and Electronics. 
 
-Detailed Information can be found at [Homepage 1](http://mypage.hdu.edu.cn/wshzhao) or [Homepage 2](https://faculty.hdu.edu.cn/dzxxxy/zws/main.htm).
+A complete list of publication can be found at [Google Scholar](https://scholar.google.com/citations?user=sqWhO6wAAAAJ&hl=en) or [Researchgate](https://www.researchgate.net/profile/Wen-Sheng-Zhao).
 
-A full list of publication can be found at [Google Scholar](https://scholar.google.com/citations?user=sqWhO6wAAAAJ&hl=en) or [Researchgate](https://www.researchgate.net/profile/Wen-Sheng-Zhao).
+赵文生，教授，博士生导师。
 
-You can use the [editor on GitHub](https://github.com/wshzhao/wshzhao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+2008年哈尔滨工业大学本科，2013年浙江大学博士，曾赴新加坡国立大学、美国佐治亚理工学院交流访学。长期从事三维集成、微波器件与电路、多物理场仿真等方面的研究，主持国家自然科学基金青年/面上、浙江省杰青基金等项目，发表SCI论文100余篇，出版专著3部、章节3篇，获授权发明专利40余项。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+浙江省杰青基金获得者、浙江省万人青拔，中国电子学会优秀科技工作者，IEEE/中国电子学会高级会员，担任Microelectronics Journal、IEEE Access期刊Associate Editor、Micromachines、Electronics期刊Guest Editor。
+
+个人主页：[Homepage 1](http://mypage.hdu.edu.cn/wshzhao)；[Homepage 2](https://faculty.hdu.edu.cn/dzxxxy/zws/main.htm).
+
+E-mail: wshzhao@hdu.edu.cn
+办公室：杭州下沙杭电校区4教106
 
 ### Markdown
 
