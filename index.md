@@ -6,7 +6,7 @@
 
 **个人主页**：[Homepage 1](http://mypage.hdu.edu.cn/wshzhao)；[Homepage 2](https://faculty.hdu.edu.cn/dzxxxy/zws/main.htm).
 
-**Email**: wshzhao@hdu.edu.cn; wsh.zhao@gmail.com
+**Email**: wshzhao@hdu.edu.cn
 
 **办公室**：杭州下沙杭电校区4教106
 
