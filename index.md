@@ -1,5 +1,7 @@
 ## Welcome to Dr. W.-S. Zhao's Homepage
 
+Wen-Sheng Zhao received the B.E. degree from Harbin Institute of Technology, Harbin, China, in 2008, and the Ph.D. degree from Zhejiang University, Hangzhou, China, in 2013.
+
 You can use the [editor on GitHub](https://github.com/wshzhao/wshzhao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
