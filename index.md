@@ -4,7 +4,8 @@ Wen-Sheng Zhao received the B.E. degree from Harbin Institute of Technology, Har
 
 Dr. Zhao is a Sensior Member of IEEE and Chinese Institute of Electronics, and serves as an Associate Editor of IEEE Access and Microelectronics Journal, and a guest editor of Micromachines and Electronics. 
 
-Detailed Information can be found at [Homepage 1](http://mypage.hdu.edu.cn/wshzhao) or [Homepage 2](https://faculty.hdu.edu.cn/dzxxxy/zws/main.htm). .
+Detailed Information can be found at [Homepage 1](http://mypage.hdu.edu.cn/wshzhao) or [Homepage 2](https://faculty.hdu.edu.cn/dzxxxy/zws/main.htm).
+
 A full list of publication can be found at [Google Scholar](https://scholar.google.com/citations?user=sqWhO6wAAAAJ&hl=en) or [Researchgate](https://www.researchgate.net/profile/Wen-Sheng-Zhao).
 
 You can use the [editor on GitHub](https://github.com/wshzhao/wshzhao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
